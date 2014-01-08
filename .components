@@ -1,0 +1,9 @@
+---
+:orm: none
+:test: minitest
+:mock: none
+:script: none
+:renderer: slim
+:stylesheet: none
+:namespace: TestControllerNoRender
+:migration_format: number
