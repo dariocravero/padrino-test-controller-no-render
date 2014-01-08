@@ -2,7 +2,6 @@
 
 Trying to answer @fj's [question on twitter](https://twitter.com/superninjarobot/status/420693222038310912).
 
-See 
 A helper like this should do:
 
 ```
